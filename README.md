@@ -30,7 +30,6 @@ This project focuses on analyzing the **Wealth of Nations** dataset using both *
 - **/data**: Contains the Wealth of Nations dataset.
 - **/excel**: Includes the Excel file with data manipulation and Pivot Table analysis.
 - **/tableau**: Tableau workbook (.twbx) with visualizations and insights.
-- **/docs**: Additional documentation (if applicable).
 
 ---
 
